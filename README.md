@@ -45,13 +45,13 @@ Otra forma de expresar las leyes de Kirchhoff e mediante los siguientes enunciad
 
 ## 3. EXPLICACIÓN DEL PROCEDIMIENTO
 ![1](https://user-images.githubusercontent.com/93893919/141482671-d424e3a6-8520-48ff-89a1-2f456276d7f1.jpeg)
-TABLA 1
+* TABLA 1
 ![TABLA 1](https://user-images.githubusercontent.com/93893919/141482913-68a19701-926e-4e57-ada2-d9a959bfb6e6.png)
 
-TABLA 2 
+* TABLA 2 
 ![TABLA 2](https://user-images.githubusercontent.com/93893919/141482929-411772c7-6c41-4343-beb3-45d3e3d748cc.png)
 
-TABLA 3
+* TABLA 3
 ![TABLA 3](https://user-images.githubusercontent.com/93893919/141482966-c6375d44-59e6-4a8c-8dde-f452e4255bf9.png)
 
 ## 4. VIDEO
