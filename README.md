@@ -2,8 +2,13 @@
 ## 1. OBJETIVOS
 
    1.1 GENERAL
+* Analizar y demostrar los conceptos relacionados sobre las “Leyes de Kirchhoff”, mediante la resolución de este laboratorio que nos permite verificar las leyes a partir del circuito eléctrico  que se construirá.
 
    1.2 ESPECÍFICOS
+   
+* Manejar correctamente los materiales que se van a utilizar a su vez reconocer cada una de sus funciones.
+* Reconocer el error porcentual existente en las mediciones de voltaje, corriente y resistencia.
+* Realizar las mediciones de corrientes y voltajes, verificando las leyes de “Kirchhoff” en el circuito eléctrico correspondiente de esta manera llegar a una deducción verídica.
 
 ## 2. MARCO TEÓRICO
 
@@ -42,6 +47,10 @@ Otra forma de expresar las leyes de Kirchhoff e mediante los siguientes enunciad
 ## 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 ## 5. VIDEO
 ## 6. CONCLUSIONES
+* En el presente informe de laboratorio se verifico el desempeño correcto de las leyes de Kirchhoff mediante las mediciones oportunas que se realizó en el circuito eléctrico. Es importante recordar que para aplicar las leyes ya mencionadas en un circuito eléctrico se debe tomar en cuenta la dirección de cada elemento.
+* Gracias al análisis y construcción del circuito se logró comprender que las Leyes de Kirchhoff son dos desigualdades que se basan en la conservación de la energía y la carga en los circuitos eléctricos.
+* Por lo tanto las Leyes de Kirchhoff cumplen un rol importante dentro del estudio de la electricidad y la electrónica puesto que cuenta con numerosas aplicaciones.
+
 ## 7. BIBLIOGRAFÍA 
 * Floyd, T. (2007). Principios de circuitos electricos (Octava edi). México: Pearson
 * McAllister, W. (s.f.). Las leyes de Kirchhoff. Khan Academy. https://es.khanacademy.org/science/physics/circuits-topic/circuits-resistance/a/ee-kirchhoffs-laws
