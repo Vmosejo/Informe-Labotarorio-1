@@ -45,6 +45,7 @@ Otra forma de expresar las leyes de Kirchhoff e mediante los siguientes enunciad
 
 ## 3. EXPLICACIÓN DEL PROCEDIMIENTO
 ![1](https://user-images.githubusercontent.com/93893919/141482671-d424e3a6-8520-48ff-89a1-2f456276d7f1.jpeg)
+
 * TABLA 1
 ![TABLA 1](https://user-images.githubusercontent.com/93893919/141482913-68a19701-926e-4e57-ada2-d9a959bfb6e6.png)
 
