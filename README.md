@@ -44,9 +44,18 @@ Otra forma de expresar las leyes de Kirchhoff e mediante los siguientes enunciad
 ![Diagrama en blanco (1)](https://user-images.githubusercontent.com/93681159/141390620-208e64d8-8456-44ba-b9da-36db566071b0.jpeg)
 
 ## 3. EXPLICACIÓN DEL PROCEDIMIENTO
-## 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
-## 5. VIDEO
-## 6. CONCLUSIONES
+![1](https://user-images.githubusercontent.com/93893919/141482671-d424e3a6-8520-48ff-89a1-2f456276d7f1.jpeg)
+TABLA 1
+![TABLA 1](https://user-images.githubusercontent.com/93893919/141482913-68a19701-926e-4e57-ada2-d9a959bfb6e6.png)
+
+TABLA 2 
+![TABLA 2](https://user-images.githubusercontent.com/93893919/141482929-411772c7-6c41-4343-beb3-45d3e3d748cc.png)
+
+TABLA 3
+![TABLA 3](https://user-images.githubusercontent.com/93893919/141482966-c6375d44-59e6-4a8c-8dde-f452e4255bf9.png)
+
+## 4. VIDEO
+## 5. CONCLUSIONES
 * En el presente informe de laboratorio se verifico el desempeño correcto de las leyes de Kirchhoff mediante las mediciones oportunas que se realizó en el circuito eléctrico. Es importante recordar que para aplicar las leyes ya mencionadas en un circuito eléctrico se debe tomar en cuenta la dirección de cada elemento.
 * Gracias al análisis y construcción del circuito se logró comprender que las Leyes de Kirchhoff son dos desigualdades que se basan en la conservación de la energía y la carga en los circuitos eléctricos.
 * Por lo tanto las Leyes de Kirchhoff cumplen un rol importante dentro del estudio de la electricidad y la electrónica puesto que cuenta con numerosas aplicaciones.
